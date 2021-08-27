@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/devjfokprofile/static/css/main.a617e044.chunk.css",
-    "main.js": "/devjfokprofile/static/js/main.9e4759eb.chunk.js",
-    "main.js.map": "/devjfokprofile/static/js/main.9e4759eb.chunk.js.map",
-    "runtime-main.js": "/devjfokprofile/static/js/runtime-main.3360fa3a.js",
-    "runtime-main.js.map": "/devjfokprofile/static/js/runtime-main.3360fa3a.js.map",
-    "static/js/2.d09d991d.chunk.js": "/devjfokprofile/static/js/2.d09d991d.chunk.js",
-    "static/js/2.d09d991d.chunk.js.map": "/devjfokprofile/static/js/2.d09d991d.chunk.js.map",
-    "static/js/3.8af33e54.chunk.js": "/devjfokprofile/static/js/3.8af33e54.chunk.js",
-    "static/js/3.8af33e54.chunk.js.map": "/devjfokprofile/static/js/3.8af33e54.chunk.js.map",
+    "main.css": "/devjfokprofile/static/css/main.edf205fd.chunk.css",
+    "main.js": "/devjfokprofile/static/js/main.57aec36a.chunk.js",
+    "main.js.map": "/devjfokprofile/static/js/main.57aec36a.chunk.js.map",
+    "runtime-main.js": "/devjfokprofile/static/js/runtime-main.bb41ca2f.js",
+    "runtime-main.js.map": "/devjfokprofile/static/js/runtime-main.bb41ca2f.js.map",
+    "static/js/2.fcc2472f.chunk.js": "/devjfokprofile/static/js/2.fcc2472f.chunk.js",
+    "static/js/2.fcc2472f.chunk.js.map": "/devjfokprofile/static/js/2.fcc2472f.chunk.js.map",
+    "static/js/3.3533dd3f.chunk.js": "/devjfokprofile/static/js/3.3533dd3f.chunk.js",
+    "static/js/3.3533dd3f.chunk.js.map": "/devjfokprofile/static/js/3.3533dd3f.chunk.js.map",
     "index.html": "/devjfokprofile/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/devjfokprofile/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.d09d991d.chunk.js.LICENSE.txt": "/devjfokprofile/static/js/2.d09d991d.chunk.js.LICENSE.txt",
+    "static/css/main.edf205fd.chunk.css.map": "/devjfokprofile/static/css/main.edf205fd.chunk.css.map",
+    "static/js/2.fcc2472f.chunk.js.LICENSE.txt": "/devjfokprofile/static/js/2.fcc2472f.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/devjfokprofile/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3360fa3a.js",
-    "static/js/2.d09d991d.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.9e4759eb.chunk.js"
+    "static/js/runtime-main.bb41ca2f.js",
+    "static/js/2.fcc2472f.chunk.js",
+    "static/css/main.edf205fd.chunk.css",
+    "static/js/main.57aec36a.chunk.js"
   ]
 }
